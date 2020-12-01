@@ -7,6 +7,8 @@ import meraki
 
 companyOneOrgId = 'xxxx'
 companyTwoOrgId = 'xxxx'
+companyOneSite = 'xxxx'
+companyTwoSite = 'xxxx'
 accesspoints = []
 switches = []
 serialNum = []
